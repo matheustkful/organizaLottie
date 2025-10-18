@@ -22,7 +22,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://matheustkful.github.io/preloaderJSLottie/preLoader.json',
+        path: 'https://matheustkful.github.io/organizaLottie/organiza.json',
     });
 }
 
